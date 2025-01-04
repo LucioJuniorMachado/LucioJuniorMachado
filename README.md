@@ -5,7 +5,7 @@
 - 📫 How to reach me <machadolucio84@gmail.com>
       LinkedIn <https://www.linkedin.com/in/lucio-junior-machado/>
 - 😄 Pronouns: He/Him. 
-- ⚡ Fun fact: I'm keen to learn new tasks. Learning never exhausts me. 
+- ⚡ Fun fact: I'm keen on learn new tasks. Learning never exhausts me. 
 
 <!---
 LucioJuniorMachado/LucioJuniorMachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
