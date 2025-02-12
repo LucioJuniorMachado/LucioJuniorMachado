@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning these subjects at ICA PUC RIO.
 - 💞️ I’m looking to collaborate on new technological projects.
 - 📫 How to reach me <machadolucio84@gmail.com>
-      LinkedIn <https://www.linkedin.com/in/lucio-junior-machado/>
+     LinkedIn <https://www.linkedin.com/in/lucio-machado-junior/>
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: I'm keen on learn new tasks. Learning never exhausts me. 
 
