@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucioJuniorMachado
-- 👀 I’m interested in Artificial intelligence and Data Science.
+- 👀 I’m interested in Artificial intelligence, Data Science and Quantum Computing.
 - 🌱 I’m currently learning these subjects at ICA PUC RIO.
 - 💞️ I’m looking to collaborate on new technological projects.
 - 📫 How to reach me <machadolucio84@gmail.com>
